@@ -1,0 +1,901 @@
+<?xml version="1.0"?>
+
+<pagedata>
+<pyModelerGuideModeON>true</pyModelerGuideModeON>
+<pyShowROIcon>false</pyShowROIcon>
+<pyRuleName>SeatSelection_Flow</pyRuleName>
+<pxUpdateSystemID>pega</pxUpdateSystemID>
+<pyValueChanged>false</pyValueChanged>
+<pyXMLSignature>&lt;?xml version="1.0"?&gt;&lt;methodSignature&gt;&lt;pyStepsCallParams&gt;&lt;/pyStepsCallParams&gt;&lt;pyParamArray&gt;&lt;rowdata&gt;&lt;/rowdata&gt;&lt;/pyParamArray&gt;&lt;/methodSignature&gt;</pyXMLSignature>
+<pxUpdateDateTime>20260203T222852.939 GMT</pxUpdateDateTime>
+<pzRuleSetVersionMinor>01</pzRuleSetVersionMinor>
+<pyCoveredByCount>0</pyCoveredByCount>
+<pySystemFlow>false</pySystemFlow>
+<pyAcceptConversion>true</pyAcceptConversion>
+<pyUsage/>
+<pyShowGrid>true</pyShowGrid>
+<pzRuleSetVersionMajor>01</pzRuleSetVersionMajor>
+<pyJavaStream/>
+<pySkipNewHarness>true</pySkipNewHarness>
+<pxCreateDateTime>20260203T212825.784 GMT</pxCreateDateTime>
+<pyCanCreateWorkObjectOld>false</pyCanCreateWorkObjectOld>
+<pyAssociatedImage/>
+<pyInterface/>
+<pzCaseTypeExistsInCoverClass/>
+<pxInstanceLockedCreateDateTime/>
+<pyModifiedWithPM>true</pyModifiedWithPM>
+<pxInstanceLockedBy/>
+<pyBaseRule>false</pyBaseRule>
+<pzHideCaseCreationSettings>true</pzHideCaseCreationSettings>
+<pxInsName>MYCO-PASSENGER-WORK-PASSENGERBOOKING!SEATSELECTION_FLOW</pxInsName>
+<pxSaveDateTime>20260203T222852.942 GMT</pxSaveDateTime>
+<pyFormPost/>
+<pyNextAssignment>true</pyNextAssignment>
+<pyCircumstanceProp/>
+<pyToolbarSaveLabel>Save</pyToolbarSaveLabel>
+<pyDocumentTitle/>
+<pzInsKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzInsKey>
+<pyPostVisio2000Saved>false</pyPostVisio2000Saved>
+<pyPageOrientation>Landscape</pyPageOrientation>
+<pyAlphaSortLocalActions>false</pyAlphaSortLocalActions>
+<pyProcessModel/>
+<pyVisioJpeg/>
+<pzIsPrivateCheckOut/>
+<pyPlaceGlobalLocalsAtTop>false</pyPlaceGlobalLocalsAtTop>
+<pxInsId>!SEATSELECTION_FLOW</pxInsId>
+<pyIsReadOnly>false</pyIsReadOnly>
+<pyStartingHarnessOld>New</pyStartingHarnessOld>
+<pyOverlayView>None</pyOverlayView>
+<pyIsStaleRuleCheckEnabled>false</pyIsStaleRuleCheckEnabled>
+<pyRuleParamsStreamName/>
+<pyWorkKey/>
+<pySpecialtyComponentData/>
+<pyRuleSetVersion>01-01-01</pyRuleSetVersion>
+<pyDoHarvesting>true</pyDoHarvesting>
+<pzDocumentKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzDocumentKey>
+<pyRegenStartingFlows>3</pyRegenStartingFlows>
+<pyStartingModelOld>pyDefault</pyStartingModelOld>
+<pxUpdateOpName>Author</pxUpdateOpName>
+<pyWindowTitle/>
+<pxUpdateOperator>Author@gogoroad</pxUpdateOperator>
+<pyObjClassLabel>Flow</pyObjClassLabel>
+<pxSiblingCount/>
+<pyCurrentViewMode>modeler</pyCurrentViewMode>
+<pyStartActivity>Start1</pyStartActivity>
+<pzChecksum>226493080</pzChecksum>
+<pyCanStartInteractively>false</pyCanStartInteractively>
+<pxMoveImportOperId>yashpandya0411@gmail.com</pxMoveImportOperId>
+<pyVisioDocVersion/>
+<pxInstanceLockedKey/>
+<pyDeferErrors>false</pyDeferErrors>
+<pxTabLabel>SeatSelection_Flow</pxTabLabel>
+<pyRuleFormStatusOld/>
+<pyCategory>FlowStandard</pyCategory>
+<pxObjClass>Rule-Obj-Flow</pxObjClass>
+<pyTemplateInputBox/>
+<pyCircumstanceDate/>
+<pyVisioRFB>RULE-FILE-BINARY WEBWB MYCO_PASSENGER_WORK_PASSENGERBOOKINGSEATSELECTION_FLOW20260203T215945_752_GMT!JPG #20260203T215945.751 GMT</pyVisioRFB>
+<pyWorkClass>MyCo-Passenger-Work-PassengerBooking</pyWorkClass>
+<pxCreateSystemID>pega</pxCreateSystemID>
+<pxCommitDateTime>20260204T102534.692 GMT</pxCommitDateTime>
+<pyCanCreateWorkObject>false</pyCanCreateWorkObject>
+<pyStreamName/>
+<pyModelerDefaultClickMode>Pan</pyModelerDefaultClickMode>
+<pyRuleAvailable>Yes</pyRuleAvailable>
+<pyJavaClassName>Rule_Obj_Flow_MyCo_Passenger_Work_PassengerBooking_SeatSelection_Flow_Action_20260203T212825_784_GMT</pyJavaClassName>
+<pzIndexCount>118</pzIndexCount>
+<pyClassName>MyCo-Passenger-Work-PassengerBooking</pyClassName>
+<pyNextAssignmentWorkBasket>false</pyNextAssignmentWorkBasket>
+<pySubCategory/>
+<pxMoveImportOperName>Yash pandya</pxMoveImportOperName>
+<pySortDateCircumWithinRSMajor>true</pySortDateCircumWithinRSMajor>
+<pyRuleFormStatusTime>20260204T103119.069 GMT</pyRuleFormStatusTime>
+<pzRuleSetVersionPatch>01</pzRuleSetVersionPatch>
+<pyModifiers/>
+<pxHostId>pega-pega-d75cb4b94-vt952</pxHostId>
+<pyRuleFormType>Harness</pyRuleFormType>
+<pyCircumstanceDefinition/>
+<pyRuleSet>Passenger</pyRuleSet>
+<pyScreenFlowHarness/>
+<pyRuleHarness>RuleForm</pyRuleHarness>
+<pyDraftModeON>false</pyDraftModeON>
+<pySelected>false</pySelected>
+<pyCircumstanceVal/>
+<pyCircumstanceDateProp/>
+<pyShowJavaWindowName>GeneratedJava20260204T103119.087 GMT</pyShowJavaWindowName>
+<pyMethodStatus/>
+<pxInstanceLockedRuleSetVersion/>
+<pyPurpose>false</pyPurpose>
+<pxInstanceLockedDateTime/>
+<pyJavaGenerateVersion>5.5</pyJavaGenerateVersion>
+<pyForecasterAvailable>unavailable</pyForecasterAvailable>
+<pyTaskStatusXml>&lt;pagedata&gt;&lt;TaskStatus&gt;&lt;/TaskStatus&gt;&lt;/pagedata&gt;</pyTaskStatusXml>
+<pzIsAutoGenerated>false</pzIsAutoGenerated>
+<pyWorkPartiesRule>Default</pyWorkPartiesRule>
+<pySPRuleSetName/>
+<pyConfirmChoice>Harness</pyConfirmChoice>
+<pzImplVersion>06.02.01</pzImplVersion>
+<pyRuleFormStatus>Good</pyRuleFormStatus>
+<pxInstanceLockedRuleSet/>
+<pyVisioJpegName>myco_passenger_work_passengerbookingseatselection_flow20260203t215945_752_gmt.jpg</pyVisioJpegName>
+<pyModelerGridModeON>false</pyModelerGridModeON>
+<pyStepPageReference>RH_1</pyStepPageReference>
+<pyDeferCommit>false</pyDeferCommit>
+<pyIsShapeSelected>false</pyIsShapeSelected>
+<pyCircumstanceType/>
+<pzCaseTypeExistsInClass>true</pzCaseTypeExistsInClass>
+<pyDescription/>
+<pyVisioBinary/>
+<pyNextAssignmentWorkBasketAdhoc>false</pyNextAssignmentWorkBasketAdhoc>
+<pySLAName/>
+<pyStartingModel>pyDefault</pyStartingModel>
+<pyShowLikelihoods>Hide</pyShowLikelihoods>
+<pyStructureType>Simple</pyStructureType>
+<pyNextAssignmentAdhoc>true</pyNextAssignmentAdhoc>
+<pxMoveImportDateTime>20260204T102534.620 GMT</pxMoveImportDateTime>
+<pyStartingHarness>New</pyStartingHarness>
+<pyVisioCompatFlag>false</pyVisioCompatFlag>
+<pxCreateOperator>Author@gogoroad</pxCreateOperator>
+<pyRuleStarts/>
+<pyRuleEnds/>
+<pyCreatesTemporaryObject>false</pyCreatesTemporaryObject>
+<pyVisioScaleFactor>100</pyVisioScaleFactor>
+<pyConfirmHarness>Confirm</pyConfirmHarness>
+<pxLimitedAccess>Dev</pxLimitedAccess>
+<pyLabel>Seat Selection</pyLabel>
+<pyCircumstanceTemplate/>
+<pxCreateOpName>Author</pxCreateOpName>
+<pyFlowType>SeatSelection_Flow</pyFlowType>
+<pzStatus>valid</pzStatus>
+<pyStencils REPEATINGTYPE="PropertyList">
+<rowdata REPEATINGINDEX="1"/>
+</pyStencils>
+<pyRuleVersionsList REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Rule-</pxObjClass>
+<pyValue>3</pyValue>
+<pxListSubscript>1</pxListSubscript>
+<pyMenuTooltip/>
+<pzInsKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzInsKey>
+<pyLabel>01-01-01 (Available)</pyLabel>
+</rowdata>
+</pyRuleVersionsList>
+<pyTaskInfo REPEATINGTYPE="PageGroup">
+</pyTaskInfo>
+<pyParameters REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-MethodParams</pxObjClass>
+<pyParametersParamIntelliValidateAs/>
+<pyParametersParamName/>
+<pyParametersParamSize/>
+<pyParametersParamIntelliRule/>
+<pyParametersParamDesc/>
+<pyParametersParamIntelliBaseClass>PageClass</pyParametersParamIntelliBaseClass>
+<pyParametersParamInOut/>
+<pyParametersParamType>String</pyParametersParamType>
+<pyParametersParamReq/>
+</rowdata>
+</pyParameters>
+<pyWhensList REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-Rule-Whens</pxObjClass>
+<pyWhenName/>
+</rowdata>
+</pyWhensList>
+<pyRMAction>
+<pxObjClass>Embed-RuleManagement</pxObjClass>
+<pyAction>load</pyAction>
+</pyRMAction>
+<pyCustomFields REPEATINGTYPE="PageGroup">
+<rowdata REPEATINGINDEX="empty">
+<pxObjClass>Embed-CustomFieldsList</pxObjClass>
+<pyCFieldValue/>
+<pyCFileKey/>
+<pyCFieldName/>
+<pyCFileRelativePath/>
+<pxSubscript>empty</pxSubscript>
+<pyCFieldType/>
+</rowdata>
+</pyCustomFields>
+<pyUseCaseLinks REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxLinkedRefTo>New</pxLinkedRefTo>
+<pyImplementationType/>
+<pyTaskName/>
+<pyApplicationName>RaniRApp</pyApplicationName>
+<pyWorkTypeName>By</pyWorkTypeName>
+<pyUseCaseName>pzStubStep_StartingScreen</pyUseCaseName>
+<pxLinkedClassTo>Rule-HTML-Harness</pxLinkedClassTo>
+<pxObjClass>Link-UseCase</pxObjClass>
+<pyTaskID>Start1</pyTaskID>
+<pyLinkedClassName>MyCo-Passenger-Work-PassengerBooking</pyLinkedClassName>
+<pyFlowKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pyFlowKey>
+<pyLabel>Application Link</pyLabel>
+<pyFlowType>SeatSelection_Flow</pyFlowType>
+</rowdata>
+<rowdata REPEATINGINDEX="2">
+<pxLinkedRefTo>SelectSeats</pxLinkedRefTo>
+<pyImplementationType/>
+<pyTaskName>Select Seats</pyTaskName>
+<pyApplicationName>Passenger</pyApplicationName>
+<pyUseCaseName>SelectSeats</pyUseCaseName>
+<pyWorkTypeName>PassengerBooking</pyWorkTypeName>
+<pxLinkedClassTo>Rule-Obj-FlowAction</pxLinkedClassTo>
+<pyTaskID>Transition2</pyTaskID>
+<pxObjClass>Link-UseCase</pxObjClass>
+<pyLinkedClassName>MyCo-Passenger-Work-PassengerBooking</pyLinkedClassName>
+<pyFlowKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pyFlowKey>
+<pyLabel>Application Link</pyLabel>
+<pyFlowType>SeatSelection_Flow</pyFlowType>
+</rowdata>
+</pyUseCaseLinks>
+<pxDataReferences REPEATINGTYPE="PageList"/>
+<pyPagesAndClasses REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-PagesAndClasses</pxObjClass>
+<pyPagesAndClassesClass/>
+<pyPagesAndClassesPage/>
+<pyPagesAndClassesMode/>
+</rowdata>
+</pyPagesAndClasses>
+<pyPreviousValues>
+<pxObjClass>Rule-Obj-Flow</pxObjClass>
+<pyRuleAvailable>Yes</pyRuleAvailable>
+<pyLabel>Seat Selection</pyLabel>
+<pyCanCreateWorkObject>false</pyCanCreateWorkObject>
+<pyPrivilegeList REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-Rule-PrivilegeSecurity</pxObjClass>
+<pyPrivilegeName/>
+<pyPrivilegeClass>MyCo-Passenger-Work-PassengerBooking</pyPrivilegeClass>
+</rowdata>
+</pyPrivilegeList>
+</pyPreviousValues>
+<pxNamedPageReferences REPEATINGTYPE="PageList"/>
+<pyPrivilegeList REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-Rule-PrivilegeSecurity</pxObjClass>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pyPrivilegeName/>
+<pyPrivilegeClass>MyCo-Passenger-Work-PassengerBooking</pyPrivilegeClass>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="Privileges">99</rowdata>
+</pzIndexes>
+</rowdata>
+</pyPrivilegeList>
+<pyLocalActions REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-Pega-AssignAction</pxObjClass>
+<pyUseCaseApplication/>
+<pyUseCaseName/>
+<pyUseCaseWorkType/>
+<pyActionName/>
+</rowdata>
+</pyLocalActions>
+<pyFromTasks REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-Rule-Obj-Flow-FromTasks</pxObjClass>
+<pyFromTaskName>Assignment1</pyFromTaskName>
+<pyToTasks REPEATINGTYPE="PageGroup">
+<rowdata REPEATINGINDEX="END52">
+<pxObjClass>Embed-Rule-Obj-Flow-FromToTask</pxObjClass>
+<pyID>Transition2</pyID>
+<pyHistoryText/>
+<pyTaskWhen>SelectSeats</pyTaskWhen>
+<pyTaskStatusOrWhen>STATUS</pyTaskStatusOrWhen>
+<pyTaskStatus>SelectSeats</pyTaskStatus>
+<pyLikelihood>100</pyLikelihood>
+<pxSubscript>END52</pxSubscript>
+<pyPropertySet REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-ModelParams</pxObjClass>
+<pyPropertiesName/>
+<pyPropertiesValue/>
+</rowdata>
+</pyPropertySet>
+</rowdata>
+</pyToTasks>
+</rowdata>
+<rowdata REPEATINGINDEX="2">
+<pxObjClass>Embed-Rule-Obj-Flow-FromTasks</pxObjClass>
+<pyFromTaskName>Start1</pyFromTaskName>
+<pyToTasks REPEATINGTYPE="PageGroup">
+<rowdata REPEATINGINDEX="Assignment1">
+<pxObjClass>Embed-Rule-Obj-Flow-FromToTask</pxObjClass>
+<pyID>Transition1</pyID>
+<pyHistoryText/>
+<pyTaskStatusOrWhen>ALWAYS</pyTaskStatusOrWhen>
+<pyTaskWhen/>
+<pyTaskStatus/>
+<pxSubscript>Assignment1</pxSubscript>
+<pyLikelihood>100</pyLikelihood>
+<pyPropertySet REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-ModelParams</pxObjClass>
+<pyPropertiesName/>
+<pyPropertiesValue/>
+</rowdata>
+</pyPropertySet>
+</rowdata>
+</pyToTasks>
+</rowdata>
+</pyFromTasks>
+<pyToolBarSettings>
+<pyFavorites>true</pyFavorites>
+<pxCanJustifyWarnings>true</pxCanJustifyWarnings>
+<pyRecover>false</pyRecover>
+<pyForward>true</pyForward>
+<pyBranchOut>false</pyBranchOut>
+<pyRestore>false</pyRestore>
+<pySave>true</pySave>
+<pyLaunch>true</pyLaunch>
+<pyHasQualifiers>false</pyHasQualifiers>
+<pyCheckIn>false</pyCheckIn>
+<pySiblings>true</pySiblings>
+<pyRequiresCheckOut>false</pyRequiresCheckOut>
+<pyAvailability>true</pyAvailability>
+<pyHelpRef>/rule-/rule-obj-/rule-obj-flow/main</pyHelpRef>
+<pyDelegates>false</pyDelegates>
+<pyRefresh>true</pyRefresh>
+<pyStandardUser>false</pyStandardUser>
+<pyPreview>false</pyPreview>
+<pyRun>false</pyRun>
+<pyCheckOut>false</pyCheckOut>
+<pyRuleData>true</pyRuleData>
+<pyVersionSecure>false</pyVersionSecure>
+<pyRuleResolution>true</pyRuleResolution>
+<pyCurrentlyOpen>true</pyCurrentlyOpen>
+<pxObjClass>Embed-WBSettings-ToolBar</pxObjClass>
+<pyShowJava>true</pyShowJava>
+<pyNew>true</pyNew>
+<pyDelete>true</pyDelete>
+<pyBack>true</pyBack>
+<pyCompareVersion/>
+<pyHelpURI>https://community.pega.com/help_v251/rule-/rule-obj-/rule-obj-flow/main</pyHelpURI>
+<pySaveAs>true</pySaveAs>
+<pyPropertyPane>false</pyPropertyPane>
+<pyUsesInheritance>true</pyUsesInheritance>
+</pyToolBarSettings>
+<pxAPIMethodReferences REPEATINGTYPE="PageList"/>
+<pyModelProcess>
+<pxObjClass>Embed-Rule-Obj-Flow-ProcessModel</pxObjClass>
+<pyRefreshViewHint>true</pyRefreshViewHint>
+<pyShapes REPEATINGTYPE="PageGroup">
+<rowdata REPEATINGINDEX="END52">
+<pyHeight>0.48</pyHeight>
+<pyClassName>MyCo-Passenger-Work-PassengerBooking</pyClassName>
+<pyMOId>END52</pyMOId>
+<pyDisplayLink>false</pyDisplayLink>
+<pyMOName/>
+<pxObjClass>Data-MO-Event-End</pxObjClass>
+<pyCategory>FlowStandard</pyCategory>
+<pyWidth>0.48</pyWidth>
+<pyContainerRef/>
+<pyStatus/>
+<pyDisableLinkWhen/>
+<pyTriggerType>None</pyTriggerType>
+<pyAuditNote/>
+<pyCoordX>4.08</pyCoordX>
+<pyCoordY>0.096</pyCoordY>
+<pyUseCaseWorkType/>
+<pyFromMODefName>End</pyFromMODefName>
+<pxSubscript>END52</pxSubscript>
+<pyTicketShapes REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Data-MO-Event-Exception</pxObjClass>
+<pyMOName/>
+</rowdata>
+</pyTicketShapes>
+<pyCallParams>
+</pyCallParams>
+<pyRouterProp>
+<pxObjClass>Data-MO-Activity-Router</pxObjClass>
+</pyRouterProp>
+<pyContextRefs REPEATINGTYPE="PageList"/>
+<pyModifierRefs REPEATINGTYPE="PropertyGroup">
+</pyModifierRefs>
+</rowdata>
+<rowdata REPEATINGINDEX="Assignment1">
+<pyClassName>MyCo-Passenger-Work-PassengerBooking</pyClassName>
+<pySLAType>Never</pySLAType>
+<pyMOId>Assignment1</pyMOId>
+<pyDisplayLink>true</pyDisplayLink>
+<pyActivityTypeSelector/>
+<pyWidth/>
+<pyDisableLinkWhen/>
+<pyContainerRef/>
+<pyCoordX>2.08</pyCoordX>
+<pyAuditNote/>
+<pyHarnessPurpose/>
+<pyCoordY>0.096</pyCoordY>
+<pyDisplayRouteTo>USER</pyDisplayRouteTo>
+<pyUseCaseWorkType>PassengerBooking</pyUseCaseWorkType>
+<pyFAProcessOnJump>false</pyFAProcessOnJump>
+<pyAutomationAppliesTo/>
+<pyViewPolicy>USE_CASE_POLICY</pyViewPolicy>
+<pyHeight/>
+<pyShapeDisplayName/>
+<pyWorkStatus/>
+<pyUseCaseName/>
+<pyMOName>Select Seats</pyMOName>
+<pxObjClass>Data-MO-Activity-Assignment</pxObjClass>
+<pyCategory>FlowStandard</pyCategory>
+<pyRouteTo>Current operator</pyRouteTo>
+<pyUseCaseApplication/>
+<pyEffortCost/>
+<pyImplementation>WorkList</pyImplementation>
+<pyBaseClass>MyCo-Passenger-Work-PassengerBooking</pyBaseClass>
+<pySLA/>
+<pyFromMODefName>Assignment</pyFromMODefName>
+<pxSubscript>Assignment1</pxSubscript>
+<pyLane/>
+<pyNotifyProp>
+<pxObjClass>Data-MO-Activity-Notify</pxObjClass>
+<pyImplementation/>
+<pyMOName/>
+<pyCallParams>
+</pyCallParams>
+</pyNotifyProp>
+<pyTicketShapes REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Data-MO-Event-Exception</pxObjClass>
+<pyMOName/>
+</rowdata>
+</pyTicketShapes>
+<pyCallParams>
+<HarnessPurpose/>
+<StatusWork/>
+<DoNotPerform/>
+<Instructions/>
+<StatusAssign/>
+<ConfirmationNote>pyStepRoutedConfirmation</ConfirmationNote>
+<ViewPolicy>USE_CASE_POLICY</ViewPolicy>
+</pyCallParams>
+<pyContextRefs REPEATINGTYPE="PageList"/>
+<pyModifierRefs REPEATINGTYPE="PropertyGroup">
+</pyModifierRefs>
+<pyRouterProp>
+<pxObjClass>Data-MO-Activity-Router</pxObjClass>
+<pyInLane>false</pyInLane>
+<pyIsCustomRouter>false</pyIsCustomRouter>
+<pyImplementation>ToCurrentOperator</pyImplementation>
+<pyMOName/>
+<pySkills REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-Rule-Obj-Flow-RoutingSkills</pxObjClass>
+<pySkillName/>
+<pySkillRequired>true</pySkillRequired>
+<pySkillLevel>1</pySkillLevel>
+</rowdata>
+</pySkills>
+<pyCallParams>
+<CheckAvailability/>
+</pyCallParams>
+<pyPageAliases>
+</pyPageAliases>
+</pyRouterProp>
+<pySkipAssignmentParams REPEATINGTYPE="PageList"/>
+<pyLocalActionsPL REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-Pega-AssignAction</pxObjClass>
+<pyActionName/>
+</rowdata>
+</pyLocalActionsPL>
+</rowdata>
+<rowdata REPEATINGINDEX="Start1">
+<pyClassName>MyCo-Passenger-Work-PassengerBooking</pyClassName>
+<pyMOId>Start1</pyMOId>
+<pyDisplayLink>false</pyDisplayLink>
+<pyWidth>0.48</pyWidth>
+<pyContainerRef/>
+<pyDisableLinkWhen/>
+<pyTriggerType>None</pyTriggerType>
+<pxCreateDateTime>20130611T102826.736 GMT</pxCreateDateTime>
+<pyCoordX>0.08</pyCoordX>
+<pyAuditNote/>
+<pyCoordY>0.096</pyCoordY>
+<pyUseCaseWorkType>By</pyUseCaseWorkType>
+<pyFAProcessOnJump>false</pyFAProcessOnJump>
+<pyTypeMismatch>false</pyTypeMismatch>
+<pyHeight>0.48</pyHeight>
+<pyShapeDisplayName/>
+<pyWorkStatus/>
+<pyUseCaseName>pzStubStep_StartingScreen</pyUseCaseName>
+<pyMOName/>
+<pyStartingHarness>NewSample</pyStartingHarness>
+<pxObjClass>Data-MO-Event-Start</pxObjClass>
+<pyCategory>FlowStandard</pyCategory>
+<pxCreateOperator>kotil</pxCreateOperator>
+<pyTemplateInputBox/>
+<pyShapeType>Data-MO-Event-Start</pyShapeType>
+<pyUseCaseApplication>RaniRApp</pyUseCaseApplication>
+<pxCreateSystemID>SLSHYD</pxCreateSystemID>
+<pxCreateOpName>Venkat</pxCreateOpName>
+<pyFromMODefName>Start</pyFromMODefName>
+<pyLane/>
+<pxSubscript>Start1</pxSubscript>
+<pyTicketShapes REPEATINGTYPE="PageList"/>
+<pyCallParams>
+</pyCallParams>
+<pyContextRefs REPEATINGTYPE="PageList"/>
+<pyModifierRefs REPEATINGTYPE="PropertyGroup">
+</pyModifierRefs>
+<pyRouterProp>
+<pxObjClass>Data-MO-Activity-Router</pxObjClass>
+</pyRouterProp>
+<pxWarningsToDisplay REPEATINGTYPE="PageList"/>
+</rowdata>
+</pyShapes>
+<pyModifiers REPEATINGTYPE="PageGroup">
+</pyModifiers>
+<pyConnectors REPEATINGTYPE="PageGroup">
+<rowdata REPEATINGINDEX="Transition2">
+<pyClassName>MyCo-Passenger-Work-PassengerBooking</pyClassName>
+<pyMOId>Transition2</pyMOId>
+<pyDisplayLink>false</pyDisplayLink>
+<pyTo>END52</pyTo>
+<pyFromClass>Data-MO-Activity-Assignment</pyFromClass>
+<pyWidth/>
+<pyContainerRef/>
+<pyDisableLinkWhen/>
+<pxCreateDateTime>20260203T212825.806 GMT</pxCreateDateTime>
+<pyAuditNote/>
+<pyCoordX/>
+<pyCoordY/>
+<pyUseCaseWorkType>PassengerBooking</pyUseCaseWorkType>
+<pyFAProcessOnJump>false</pyFAProcessOnJump>
+<pyExpression>SelectSeats</pyExpression>
+<pyTypeMismatch>false</pyTypeMismatch>
+<pyHeight/>
+<pyMONameOrig>Select Seats</pyMONameOrig>
+<pyPropertiesOrModel>Set Properties</pyPropertiesOrModel>
+<pyShouldReload>No</pyShouldReload>
+<pyShapeDisplayName/>
+<pyIsFork>false</pyIsFork>
+<pyConnectorType>Transition</pyConnectorType>
+<pyUseCaseName>SelectSeats</pyUseCaseName>
+<pyConditionType>Action</pyConditionType>
+<pyMOName>Select Seats</pyMOName>
+<pxObjClass>Data-MO-Connector-Transition</pxObjClass>
+<pyCategory>FlowStandard</pyCategory>
+<pyTemplateInputBox/>
+<pxCreateOperator>Author@gogoroad</pxCreateOperator>
+<pyShapeType>Data-MO-Connector-Transition</pyShapeType>
+<pyUseCaseApplication>Passenger</pyUseCaseApplication>
+<pxCreateSystemID>pega</pxCreateSystemID>
+<pyImplementation/>
+<pyFrom>Assignment1</pyFrom>
+<pxCreateOpName>Author</pxCreateOpName>
+<pyFromMODefName>Transition</pyFromMODefName>
+<pyLikelihood>100</pyLikelihood>
+<pyLane/>
+<pxSubscript>Transition2</pxSubscript>
+<pySourceConstraintPoint>
+<pxObjClass>Embed-MO-Coordinates</pxObjClass>
+<pyPointY>0.5</pyPointY>
+<pyPointX>1</pyPointX>
+</pySourceConstraintPoint>
+<pyModifierRefs REPEATINGTYPE="PropertyGroup">
+</pyModifierRefs>
+<pyPropertyAssigns REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-ModelParams</pxObjClass>
+<pyPropertiesName/>
+<pyPropertiesValue/>
+</rowdata>
+</pyPropertyAssigns>
+</rowdata>
+<rowdata REPEATINGINDEX="Transition1">
+<pyClassName>MyCo-Passenger-Work-PassengerBooking</pyClassName>
+<pyMOId>Transition1</pyMOId>
+<pyDisplayLink>false</pyDisplayLink>
+<pyTo>Assignment1</pyTo>
+<pyWidth/>
+<pyFromClass>Data-MO-Event-Start</pyFromClass>
+<pyContainerRef/>
+<pyDisableLinkWhen/>
+<pxCreateDateTime>20130611T102831.329 GMT</pxCreateDateTime>
+<pyAuditNote/>
+<pyCoordX/>
+<pyCoordY/>
+<pyUseCaseWorkType/>
+<pyFAProcessOnJump>false</pyFAProcessOnJump>
+<pyExpression/>
+<pyHeight/>
+<pyShapeDisplayName/>
+<pyIsFork>false</pyIsFork>
+<pyConnectorType>Transition</pyConnectorType>
+<pyUseCaseName/>
+<pyConditionType>Always</pyConditionType>
+<pyMOName>[Always]</pyMOName>
+<pxObjClass>Data-MO-Connector-Transition</pxObjClass>
+<pyCategory>FlowStandard</pyCategory>
+<pxCreateOperator>kotil</pxCreateOperator>
+<pyUseCaseApplication/>
+<pxCreateSystemID>SLSHYD</pxCreateSystemID>
+<pyFrom>Start1</pyFrom>
+<pxCreateOpName>Venkat</pxCreateOpName>
+<pyFromMODefName>Transition</pyFromMODefName>
+<pyLane/>
+<pyLikelihood>100</pyLikelihood>
+<pxSubscript>Transition1</pxSubscript>
+<pySourceConstraintPoint>
+<pxObjClass>Embed-MO-Coordinates</pxObjClass>
+</pySourceConstraintPoint>
+<pyModifierRefs REPEATINGTYPE="PropertyGroup">
+</pyModifierRefs>
+<pyConnectorPoints REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-MO-Coordinates</pxObjClass>
+<pyPointY>140</pyPointY>
+<pyPointX>70</pyPointX>
+</rowdata>
+<rowdata REPEATINGINDEX="2">
+<pxObjClass>Embed-MO-Coordinates</pxObjClass>
+<pyPointY>140</pyPointY>
+<pyPointX>135</pyPointX>
+</rowdata>
+<rowdata REPEATINGINDEX="3">
+<pxObjClass>Embed-MO-Coordinates</pxObjClass>
+<pyPointY>42</pyPointY>
+<pyPointX>135</pyPointX>
+</rowdata>
+<rowdata REPEATINGINDEX="4">
+<pxObjClass>Embed-MO-Coordinates</pxObjClass>
+<pyPointY>42</pyPointY>
+<pyPointX>200</pyPointX>
+</rowdata>
+</pyConnectorPoints>
+<pyPropertyAssigns REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-ModelParams</pxObjClass>
+<pyPropertiesName/>
+<pyPropertiesValue/>
+</rowdata>
+</pyPropertyAssigns>
+<pyTargetConstraintPoint>
+<pxObjClass>Embed-MO-Coordinates</pxObjClass>
+</pyTargetConstraintPoint>
+</rowdata>
+</pyConnectors>
+<pyAnnotationShapes REPEATINGTYPE="PageGroup">
+</pyAnnotationShapes>
+<pyContexts REPEATINGTYPE="PageGroup">
+</pyContexts>
+</pyModelProcess>
+<pyCoveredBy REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-Rule-Obj-Flow-CoveredBy</pxObjClass>
+<pySubTaskModel/>
+<pyCoveringWorkClass/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pySubTaskHarness/>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="AddWorkProcesses">98</rowdata>
+</pzIndexes>
+</rowdata>
+</pyCoveredBy>
+<pxWarnings REPEATINGTYPE="PageList"/>
+<pyEndingActivities REPEATINGTYPE="PropertyList">
+<rowdata REPEATINGINDEX="1">END52</rowdata>
+</pyEndingActivities>
+<pxRuleReferences REPEATINGTYPE="PageList">
+<rowdata REPEATINGINDEX="1">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName/>
+<pyRuleName>Passenger PassengerBooking SelectSeats</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Application-UseCase</pxRuleObjClass>
+<pxRuleFamilyName>PASSENGER!PASSENGERBOOKING!SELECTSEATS</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">100</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="2">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyCaption [End]</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYCAPTION![END]</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">101</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="3">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyActionPrompt [End]</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYACTIONPROMPT![END]</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">102</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="4">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>MyCo-Passenger-Work-PassengerBooking</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-Class</pxRuleObjClass>
+<pxRuleFamilyName>MYCO-PASSENGER-WORK-PASSENGERBOOKING</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">103</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="5">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyActionPrompt Select Seats</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYACTIONPROMPT!SELECT SEATS</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">104</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="6">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyButtonLabel Seat Selection</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYBUTTONLABEL!SEAT SELECTION</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">105</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="7">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>@baseclass</pxRuleClassName>
+<pyRuleName>pyCaption Select Seats</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYCAPTION!SELECT SEATS</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">106</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="8">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>SelectSeats</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FlowAction</pxRuleObjClass>
+<pxRuleFamilyName>SELECTSEATS</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">107</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="9">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyButtonLabel Select Seats</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYBUTTONLABEL!SELECT SEATS</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">108</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="10">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>ToCurrentOperator</pyRuleName>
+<pyMethodStatus>API</pyMethodStatus>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-Activity</pxRuleObjClass>
+<pxRuleFamilyName>TOCURRENTOPERATOR</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">109</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="11">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>WorkList</pyRuleName>
+<pyMethodStatus>API</pyMethodStatus>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-Activity</pxRuleObjClass>
+<pxRuleFamilyName>WORKLIST</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">110</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="12">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyCaption Select Seats</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYCAPTION!SELECT SEATS</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">111</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="13">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyButtonLabel [End]</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYBUTTONLABEL![END]</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">112</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="14">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyConfirmationNote</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-Property</pxRuleObjClass>
+<pxRuleFamilyName>PYCONFIRMATIONNOTE</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">113</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="15">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyCaption Seat Selection</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYCAPTION!SEAT SELECTION</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">114</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="16">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>@baseclass</pxRuleClassName>
+<pyRuleName>@baseclass</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-Class</pxRuleObjClass>
+<pxRuleFamilyName>@BASECLASS</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">115</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="17">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>MyCo-Passenger-Work-PassengerBooking</pxRuleClassName>
+<pyRuleName>pyConfirmationNote pyStepRoutedConfirmation</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYCONFIRMATIONNOTE!PYSTEPROUTEDCONFIRMATION</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">116</rowdata>
+</pzIndexes>
+</rowdata>
+<rowdata REPEATINGINDEX="18">
+<pxObjClass>Embed-Reference-Rule</pxObjClass>
+<pxRuleClassName>@baseclass</pxRuleClassName>
+<pyRuleName>pyLabel Seat Selection</pyRuleName>
+<pyMethodStatus/>
+<pzIndexOwnerKey>RULE-OBJ-FLOW MYCO-PASSENGER-WORK-PASSENGERBOOKING SEATSELECTION_FLOW #20260203T212825.784 GMT</pzIndexOwnerKey>
+<pxRuleObjClass>Rule-Obj-FieldValue</pxRuleObjClass>
+<pxRuleFamilyName>PYLABEL!SEAT SELECTION</pxRuleFamilyName>
+<pzIndexes REPEATINGTYPE="PropertyGroup">
+<rowdata REPEATINGINDEX="RuleReference">117</rowdata>
+</pzIndexes>
+</rowdata>
+</pxRuleReferences>
+<pxWarningsToDisplay REPEATINGTYPE="PageList"/>
+</pagedata>
